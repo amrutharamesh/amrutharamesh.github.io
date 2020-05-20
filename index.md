@@ -1,3 +1,2 @@
-Hello
-
-{{description}}
+layout: page
+title: Amrutha Ramesh
