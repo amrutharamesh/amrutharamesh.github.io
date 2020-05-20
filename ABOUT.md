@@ -1,3 +1,3 @@
 layout: page
 title: Amrutha Ramesh
-permalink: /
+permalink: /about
